@@ -1,3 +1,15 @@
+body {
+    background-color: darkgreen;
+}
+
 p {
     color: red;
+}
+
+#background {
+    background-color: chartreuse;
+    color: white;
+    border: 5px solid black;
+    padding: 15px;
+
 }
